@@ -1,0 +1,16 @@
+.c1, .c2 {
+    border: none;
+}
+.c1 {
+    width: 10%;
+}
+.c2 {
+    width: 90%;
+}
+.t {
+    width: 100%;
+    text-align: center;
+}
+::placeholder {
+    color: orange;
+}

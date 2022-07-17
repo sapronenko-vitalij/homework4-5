@@ -1,0 +1,14 @@
+.header {
+    height: 50px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-around;
+}
+.header a {
+    font-size: 35;
+    margin: auto;
+    text-decoration: none;
+    color: blueviolet;
+}
+
+  
